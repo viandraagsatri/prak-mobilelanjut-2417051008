@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(title: const Text('PRAKTIKUM MOBILE LANJUT')),
         body: const Center(
           child: Text(
-            'Hallo Nama Saya Viandra Thridya Agsatri',
+            'Hallo Nama Saya Viandra',
             style: TextStyle(fontSize: 24),
           ),
         ),

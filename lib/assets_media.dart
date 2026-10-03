@@ -17,7 +17,7 @@ class _AssetsMediaPageState extends State<AssetsMediaPage> {
     if (isPlaying) {
       await player.pause();
     } else {
-      await player.play(AssetSource('audios/music.mpeg'));
+      await player.play(AssetSource('audios/music.mp3'));
     }
     setState(() {
       isPlaying = !isPlaying;

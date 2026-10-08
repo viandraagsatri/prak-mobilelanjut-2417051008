@@ -101,7 +101,7 @@ class _AssetsMediaPageState extends State<AssetsMediaPage> {
                     ),
                     const SizedBox(height: 15),
                     const Text(
-                      'Nama Mahasiswa',
+                      'Viandra Thridya Agsatri',
                       style: TextStyle(
                         fontFamily: 'Poppins',
                         fontSize: 22,
